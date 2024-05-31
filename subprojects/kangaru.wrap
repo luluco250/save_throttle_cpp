@@ -1,0 +1,8 @@
+[wrap-git]
+url = https://github.com/gracicot/kangaru.git
+revision = v4.3.2
+depth = 1
+method = cmake
+
+[provide]
+kangaru = kangaru_dep

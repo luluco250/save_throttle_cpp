@@ -1,0 +1,7 @@
+/.cache/
+/build/
+/subprojects/*/
+!/subprojects/*.wrap
+/.vscode/*
+!/.vscode/launch.json
+!/.vscode/tasks.json

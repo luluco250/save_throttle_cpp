@@ -1,0 +1,14 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Debug",
+			"type": "cppdbg",
+			"request": "launch",
+			"program": "${workspaceRoot}/build/save_throttle",
+			"args": [],
+			"cwd": "${workspaceRoot}/build/",
+			"preLaunchTask": "Meson Build"
+		}
+	]
+}
